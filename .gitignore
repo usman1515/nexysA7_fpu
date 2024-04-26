@@ -1,0 +1,35 @@
+.vscode
+
+# prj word dir
+*.jou
+*.log
+*.str
+*.tmp
+
+.Xil
+
+# folder cache
+nexysa7_100t_fpu_v5.cache
+
+# folder gen
+nexysa7_100t_fpu_v5.gen
+
+# folder hw
+nexysa7_100t_fpu_v5.hw
+
+# folder ip_user_files
+nexysa7_100t_fpu_v5.ip_user_files
+
+# folder runs
+nexysa7_100t_fpu_v5.runs
+!nexysa7_100t_fpu_v5.runs/impl_1/runme.log
+!nexysa7_100t_fpu_v5.runs/synth_1/runme.log
+
+# folder sim
+nexysa7_100t_fpu_v5.sim
+!nexysa7_100t_fpu_v5.sim/sim_1/behav/xsim/compile.log
+!nexysa7_100t_fpu_v5.sim/sim_1/behav/xsim/elaborate.log
+!nexysa7_100t_fpu_v5.sim/sim_1/behav/xsim/simulate.log
+
+# folder srcs
+nexysa7_100t_fpu_v5.srcs/utils_1
